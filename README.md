@@ -50,7 +50,7 @@ Currently, I'm pursuing advanced upskilling in **Generative AI, LangChain, LLMs,
 ### 📌 Tools
 - Git, GitHub  
 - Streamlit  
-- Figma (UI/UX projects)  
+- AWS
 
 ---
 
